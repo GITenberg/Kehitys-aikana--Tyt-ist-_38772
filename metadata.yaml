@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32036
     wikipedia: http://fi.wikipedia.org/wiki/Toini_Topelius
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38772#Kehitys-aikana--Tyt-ist-
 gutenberg_issued: '2012-02-05'
 gutenberg_type: Text
 identifiers:
